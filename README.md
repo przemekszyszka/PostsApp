@@ -15,3 +15,6 @@
 * Open `ios/PostsApp.xcodeproj` and hit run in Xcode.
 
 You need also to start the server by running `react-native start` in the project directory
+
+
+Please don't forget about starting [PostsAppBackend] (https://github.com/przemekszyszka/PostsAppBackend) app.
